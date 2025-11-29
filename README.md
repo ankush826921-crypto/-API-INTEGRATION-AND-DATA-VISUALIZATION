@@ -16,3 +16,7 @@
 # ✔️ Python script for API integration
 # ✔️ Data processing
 # ✔️ Visualization dashboard using Matplotlib/Seaborn
+
+# OUTPUT 
+
+<img width="1016" height="1020" alt="Image" src="https://github.com/user-attachments/assets/8d09b99a-69a0-4a30-a0e9-4d4ec22e0873" />
